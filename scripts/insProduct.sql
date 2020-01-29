@@ -1,0 +1,1 @@
+INSERT into product (product_id, product_type_id, product_category_id, place_id, Order_id, product_name) values (1, 1, 1, 1, 1, 'product1')
